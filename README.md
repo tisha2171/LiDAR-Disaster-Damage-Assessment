@@ -6,6 +6,10 @@ is hosted externally.
 Google Drive Dataset:
 https://drive.google.com/drive/folders/1MzctTDvDBnb-SkR2o3JOsA-lD1Lt7wZC
 
+The exact links from where the dataset is taken from:
+https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.052018.2444.1
+https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.052018.2444.2
+
 ### Dataset Contents
 - Raw LiDAR Point Clouds (.las/.laz)
 - Preprocessed elevation data
